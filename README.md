@@ -17,7 +17,7 @@ a++;
 |列1的内容1|列2的内容1|
 |列1的内容2|列2的内容2|
 
-[点击前往谷歌搜索](https://www.google.com.hk/)
+[点击前往谷歌搜索的链接](https://www.google.com.hk/)
 
 ![](https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg)
 
